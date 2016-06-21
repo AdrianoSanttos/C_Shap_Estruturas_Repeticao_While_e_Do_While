@@ -1,0 +1,6 @@
+C:\VisualStudio\EstruturasRepeticao\bin\Debug\EstruturasRepeticao.exe.config
+C:\VisualStudio\EstruturasRepeticao\bin\Debug\EstruturasRepeticao.exe
+C:\VisualStudio\EstruturasRepeticao\bin\Debug\EstruturasRepeticao.pdb
+C:\VisualStudio\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.csprojResolveAssemblyReference.cache
+C:\VisualStudio\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.exe
+C:\VisualStudio\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.pdb
